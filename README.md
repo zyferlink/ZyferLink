@@ -72,30 +72,16 @@
 <div align="center">
 
 ꜱʀɪ ʟᴀɴᴋᴀ ɢɪᴛʜᴜʙ ʀᴀɴᴋɪɴɢ  <br/>  
-
-</div>
-
-
- <div align="center" style="display: flex; justify-content: space-between;">
-
-<div style="flex: 1; padding: 10px;">
   
-
-<samp>♖ MOST ACTIVE USER RANKING ♖ </samp> 
-
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/novalogics.svg)](./assets/docs/most-active-github-users-sri-lanka.md) 
-
-  
-</div>
-
-<div style="flex: 1; padding: 10px;">
-
-<samp>♖⠀ TOP CONTRIBUTOR RANKING ♖ </samp> 
-
+![committers.top badge](https://img.shields.io/badge/%20MOST%20ACTIVE%20USER%20RANKING%20➤-0D1117)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/novalogics.svg)](./assets/docs/most-active-github-users-sri-lanka.md) ° 
+![committers.top badge](https://img.shields.io/badge/%20TOP%20CONTRIBUTOR%20RANKING%20➤-0D1117)
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/NovaLogics.svg)](./assets/docs/most-active-github-users-sri-lanka.md)
-  
-</div>
 
 </div>
 
  ##
+
+ <!-- <samp>♖ MOST ACTIVE USER RANKING ♖ </samp> -->
+
+ <!-- <samp>♖⠀ TOP CONTRIBUTOR RANKING ♖ </samp>  -->

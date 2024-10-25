@@ -73,9 +73,9 @@
 
 ꜱʀɪ ʟᴀɴᴋᴀ ɢɪᴛʜᴜʙ ʀᴀɴᴋɪɴɢ  <br/>  
   
-![committers.top badge](https://img.shields.io/badge/%20MOST%20ACTIVE%20USER%20RANKING%20➤-0D1117)
+![committers.top badge](https://img.shields.io/badge/%20Most%20Active%20User%20Ranking%20➤-black)
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/novalogics.svg)](./assets/docs/most-active-github-users-sri-lanka.md) ° 
-![committers.top badge](https://img.shields.io/badge/%20TOP%20CONTRIBUTOR%20RANKING%20➤-0D1117)
+![committers.top badge](https://img.shields.io/badge/%20Top%20Contributor%20Ranking%20➤-black)
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/NovaLogics.svg)](./assets/docs/most-active-github-users-sri-lanka.md)
 
 </div>

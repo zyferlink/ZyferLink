@@ -75,6 +75,6 @@
 
 <samp>♖ MOST ACTIVE GITHUB USER RANK ♖ </samp> [![committers.top badge](https://user-badge.committers.top/sri_lanka/novalogics.svg)]() 
 
-<samp>♖⠀ TOP GITHUB CONTRIBUTOR RANK⠀♖ </samp> [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/NovaLogics.svg)](https://user-badge.committers.top/sri_lanka_public/NovaLogics)
+<samp>♖⠀ TOP GITHUB CONTRIBUTOR RANK⠀♖ </samp> [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/NovaLogics.svg)]()
 
 </div>

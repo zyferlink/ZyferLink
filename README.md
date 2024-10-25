@@ -73,9 +73,28 @@
 
 ꜱʀɪ ʟᴀɴᴋᴀ ɢɪᴛʜᴜʙ ʀᴀɴᴋɪɴɢ  <br/>  
 
-<samp>♖ MOST ACTIVE GITHUB USER RANK ♖ </samp> [![committers.top badge](https://user-badge.committers.top/sri_lanka/novalogics.svg)](./assets/docs/most-active-github-users-sri-lanka.md) 
+</div>
 
-<samp>♖⠀ TOP GITHUB CONTRIBUTOR RANK⠀♖ </samp> [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/NovaLogics.svg)](./assets/docs/most-active-github-users-sri-lanka.md)
+
+ <div align="center" style="display: flex; justify-content: space-between;">
+
+<div style="flex: 1; padding: 10px;">
+  
+
+<samp>♖ MOST ACTIVE USER RANKING ♖ </samp> 
+
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/novalogics.svg)](./assets/docs/most-active-github-users-sri-lanka.md) 
+
+  
+</div>
+
+<div style="flex: 1; padding: 10px;">
+
+<samp>♖⠀ TOP CONTRIBUTOR RANKING ♖ </samp> 
+
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/NovaLogics.svg)](./assets/docs/most-active-github-users-sri-lanka.md)
+  
+</div>
 
 </div>
 

@@ -1,15 +1,35 @@
-### ⛾ I go by Shavinda Dissanayake / Nova ⛾
+ ### ⛾ <strong> I go by Nova </strong> ⛾
+> ## <sup>\>/ Shavinda Dissanayake </sup>
+<br>
 
-♘ Experienced Mobile Developer specializing in Android app development with Kotlin, skilled in core Android Architecture components and best practices such as MVVM. 
+♘ **Senior Software Engineer** with 𝟔+ years of experience in mobile app development, primarily specializing in **Android** with Kotlin and Java.
+<br/> 
+
+♞ Skilled in core Android architecture and best practices, including Jetpack, MVVM, and MVI.
+<br/> 
+
+♘ Experienced in building cross platform apps with React Native, Flutter, and Ionic Capacitor.
 <br/>  
-♞ Committed to staying current with emerging technologies and currently advancing in Native Android Development, with a goal to specialize in both Native Android and iOS platforms.
+
+♞ Progressing in Native Android, aiming to master both Android and iOS.
 
 ##
+
+<br>
+
+<div align="center">
+   
+> ❦ ❝ User Experience is the **Heartbeat** of your App ❞ ❦<br>
+ <samp> <sup> \- NOVA -</sup> </samp>
+ 
+</div>
+
+<br>
 
 <div align="center">
 
 [![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=NovaLogics&show_icons=true&line_height=27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaLogics&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&count_private=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaLogics&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&langs_count=20&count_private=true)]()
    <!--stats-->
   <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dizzcode&show_icons=true&line_height=27&theme=dracula&hide_border=false)<br/> -->
 ##
@@ -67,3 +87,22 @@
 </div>
 
  ##
+
+<div align="center">
+
+ɢɪᴛʜᴜʙ ʀᴀɴᴋɪɴɢ - ꜱʀɪ ʟᴀɴᴋᴀ  <br/>  
+  
+[![Most Active User](https://img.shields.io/badge/%20Most%20Active%20User%20➤-black)](#)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/NovaLogics.svg)](#)
+
+</div>
+
+ ##
+
+ <!-- <samp>♖ MOST ACTIVE USER RANKING ♖ </samp> -->
+<!-- https://user-badge.committers.top/sri_lanka/NovaLogics.svg  -->
+
+ <!-- <samp>♖⠀ TOP CONTRIBUTOR RANKING ♖ </samp>  -->
+  <!-- https://user-badge.committers.top/sri_lanka_public/NovaLogics.svg  -->
+<!-- ![Top Contributor](https://img.shields.io/badge/%20Top%20Contributor%20%20➤-black)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/NovaLogics.svg)]()  -->

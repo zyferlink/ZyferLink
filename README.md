@@ -1,11 +1,20 @@
  ### ⛾ <strong> I go by Nova </strong> ⛾
 > ## <sup>\>/ Shavinda Dissanayake </sup>
+
+
+<div align="center">
+
+$${\color{lightblue}❦ \space ❝ \space User \space Experience \space is \space the \space Heartbeat \space of \space your \space App \space ❞ \space ❦  }$$
+$${\color{lightblue}- \space Nova \space -}$$
+ 
+</div>
+
 <br>
 
-♘ **Senior Software Engineer** with 𝟔+ years of experience in mobile app development, primarily specializing in **Android** with Kotlin and Java.
+♘ **Senior Software Engineer** with 𝟔+ years of experience in mobile app development, primarily specializing in **Android**.
 <br/> 
 
-♞ Skilled in core Android architecture and best practices, including Jetpack, MVVM, and MVI.
+♞ Skilled in core Android architecture and best practices, including Jetpack, MVVM,  MVI.
 <br/> 
 
 ♘ Experienced in building cross platform apps with React Native, Flutter, and Ionic Capacitor.
@@ -15,16 +24,6 @@
 
 ##
 
-<br>
-
-<div align="center">
-   
-> ❦ ❝ User Experience is the **Heartbeat** of your App ❞ ❦<br>
- <samp> <sup> \- NOVA -</sup> </samp>
- 
-</div>
-
-<br>
 
 <div align="center">
 

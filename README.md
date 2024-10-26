@@ -90,17 +90,19 @@
 
 <div align="center">
 
-ꜱʀɪ ʟᴀɴᴋᴀ ɢɪᴛʜᴜʙ ʀᴀɴᴋɪɴɢ  <br/>  
+ɢɪᴛʜᴜʙ ʀᴀɴᴋɪɴɢ - ꜱʀɪ ʟᴀɴᴋᴀ  <br/>  
   
-![committers.top badge](https://img.shields.io/badge/%20Most%20Active%20User%20Ranking%20➤-black)
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/NovaLogics.svg)](./assets/docs/most-active-github-users-sri-lanka.md) ° 
-![committers.top badge](https://img.shields.io/badge/%20Top%20Contributor%20Ranking%20➤-black)
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/NovaLogics.svg)](./assets/docs/most-active-github-users-sri-lanka.md)
+![Most Active User](https://img.shields.io/badge/%20Most%20Active%20User%20➤-black)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/NovaLogics.svg)]() 
 
 </div>
 
  ##
 
  <!-- <samp>♖ MOST ACTIVE USER RANKING ♖ </samp> -->
+<!-- https://user-badge.committers.top/sri_lanka/NovaLogics.svg  -->
 
  <!-- <samp>♖⠀ TOP CONTRIBUTOR RANKING ♖ </samp>  -->
+  <!-- https://user-badge.committers.top/sri_lanka_public/NovaLogics.svg  -->
+<!-- ![Top Contributor](https://img.shields.io/badge/%20Top%20Contributor%20%20➤-black)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/NovaLogics.svg)]()  -->

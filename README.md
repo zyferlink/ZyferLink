@@ -2,7 +2,7 @@
 > ## <sup>\>/ Shavinda Dissanayake </sup>
 <br>
 
-♘ **Senior Software Engineer** with 𝟔+ years in mobile app development, specializing in Android with Kotlin and Java.
+♘ **Senior Software Engineer** with 𝟔+ years of experience in mobile app development, primarily specializing in **Android** with Kotlin and Java.
 <br/> 
 
 ♞ Skilled in core Android architecture and best practices, including Jetpack, MVVM, and MVI.

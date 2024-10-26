@@ -1,4 +1,6 @@
-### ⛾ I go by Shavinda Dissanayake / Nova ⛾
+### ⛾ I go by Nova / Shavinda Dissanayake  ⛾
+
+Senior Software Engineer with over 5+ years of experience specializing in Mobile app development
 
 ♘ Experienced Mobile Developer specializing in Android app development with Kotlin, skilled in core Android Architecture components and best practices such as MVVM. 
 <br/>  
@@ -68,13 +70,12 @@
 
  ##
 
-
 <div align="center">
 
 ꜱʀɪ ʟᴀɴᴋᴀ ɢɪᴛʜᴜʙ ʀᴀɴᴋɪɴɢ  <br/>  
   
 ![committers.top badge](https://img.shields.io/badge/%20Most%20Active%20User%20Ranking%20➤-black)
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/novalogics.svg)](./assets/docs/most-active-github-users-sri-lanka.md) ° 
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/NovaLogics.svg)](./assets/docs/most-active-github-users-sri-lanka.md) ° 
 ![committers.top badge](https://img.shields.io/badge/%20Top%20Contributor%20Ranking%20➤-black)
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/NovaLogics.svg)](./assets/docs/most-active-github-users-sri-lanka.md)
 

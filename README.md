@@ -1,9 +1,6 @@
-<h3>  
-⛾ <strong> I go by Nova </strong> ⛾ <br> 
-<sub> { >/ Shavinda Dissanayake } </sub> <br> 
-</h3>
-
-<br> 
+ ### ⛾ <strong> I go by Nova </strong> ⛾
+> ## <sup>\>/ Shavinda Dissanayake </sup>
+<br>
 
 ♘ **Senior Software Engineer** with 𝟔+ years in mobile app development, specializing in Android with Kotlin and Java.
 <br/> 
@@ -15,7 +12,10 @@
 <br/>  
 
 ♞ Progressing in Native Android, aiming to master both Android and iOS.
+
 ##
+
+<br>
 
 <div align="center">
    
@@ -24,7 +24,7 @@
  
 </div>
 
-##
+<br>
 
 <div align="center">
 

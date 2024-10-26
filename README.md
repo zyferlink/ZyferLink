@@ -92,7 +92,7 @@
 
 ɢɪᴛʜᴜʙ ʀᴀɴᴋɪɴɢ - ꜱʀɪ ʟᴀɴᴋᴀ  <br/>  
   
-![Most Active User](https://img.shields.io/badge/%20Most%20Active%20User%20➤-black)
+[![Most Active User](https://img.shields.io/badge/%20Most%20Active%20User%20➤-black)](#)
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/NovaLogics.svg)](#)
 
 </div>

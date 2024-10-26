@@ -6,6 +6,20 @@
 ♞ Skilled in core Android architecture and best practices, including Jetpack, MVVM, and MVI.
 <br/> 
 
+♘ Experienced in building cross platform apps with React Native, Flutter, and Ionic Capacitor.
+<br/>  
+
+♞ Progressing in Native Android, aiming to master both Android and iOS.
+
+
+##
+
+<div align="center">
+   
+> ❦ ❝ User Experience is the **Heartbeat** of your App ❞ ❦<br>
+ <samp> <sup> \- NOVA -</sup> </samp>
+ 
+</div>
 
 ##
 

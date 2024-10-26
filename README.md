@@ -1,8 +1,8 @@
 ### ⛾ I go by Nova / Shavinda Dissanayake  ⛾
 
-Senior Software Engineer with over 5+ years of experience specializing in Mobile app development
+♘ **Senior Software Engineer** with 5+ years in mobile app development, specializing in **Android** app development using Kotlin and Java.
 
-♘ Experienced Mobile Developer specializing in Android app development with Kotlin, skilled in core Android Architecture components and best practices such as MVVM. 
+♘ 
 <br/>  
 ♞ Committed to staying current with emerging technologies and currently advancing in Native Android Development, with a goal to specialize in both Native Android and iOS platforms.
 

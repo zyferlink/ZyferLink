@@ -2,12 +2,14 @@
 > ## <sup>\>/ Shavinda Dissanayake </sup>
 
 
-<div align="center">
-
-$${\color{lightblue}❦ \space ❝ \space User \space Experience \space is \space the \space Heartbeat \space of \space your \space App \space ❞ \space ❦  }$$
-$${\color{lightblue}- \space Nova \space -}$$
- 
-</div>
+```Ada
+with Ada.Text_IO; use Ada.Text_IO; procedure 
+EVERYTHING is
+    CHANGING : constant String := "ALWAYS";
+begin
+   Put_Line ( "THE ONLY CONSTANT IS CHANGE" );
+end EVERYTHING;
+```
 
 <br>
 

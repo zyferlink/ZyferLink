@@ -1,5 +1,5 @@
- ### ⛾ <strong> I go by Nova </strong> ⛾
-> ## <sup>\>/ Shavinda Dissanayake </sup>
+ ## ⛾ <strong> I go by Nova </strong> <em>{ \>/ Shavinda Dissanayake }</em> ⛾
+
 
 > with Ada.Text_IO; use Ada.Text_IO; procedure 
 ```Ada
@@ -92,7 +92,7 @@ end EVERYTHING;
 
 <div align="center">
 
-ɢɪᴛʜᴜʙ ᴘᴜʙʟɪᴄ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ ʀᴀɴᴋɪɴɢ - ꜱʀɪ ʟᴀɴᴋᴀ  <br/>  
+ɢɪᴛʜᴜʙ ᴘᴜʙʟɪᴄ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ ʀᴀɴᴋɪɴɢ <br/> - ꜱʀɪ ʟᴀɴᴋᴀ -<br/>  
   
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/NovaLogics.svg)](#)
 

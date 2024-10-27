@@ -1,26 +1,16 @@
- ### ⛾ <strong> I go by Nova </strong> ⛾
-> ## <sup>\>/ Shavinda Dissanayake </sup>
+ ### ⛾ <strong> I go by Nova </strong> &ensp; <em>{ \>/ Shavinda Dissanayake }</em> ⛾
+◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥  
 
-
-<div align="center">
-
-$${\color{lightblue}❦ \space ❝ \space User \space Experience \space is \space the \space Heartbeat \space of \space your \space App \space ❞ \space ❦  }$$
-$${\color{lightblue}- \space Nova \space -}$$
- 
-</div>
-
-<br>
-
-♘ **Senior Software Engineer** with 𝟔+ years of experience in mobile app development, primarily specializing in **Android**.
+♞ **Senior Software Engineer** with 𝟔+ years of experience in mobile app development, primarily specializing in **Android**.
 <br/> 
 
-♞ Skilled in core Android architecture and best practices, including Jetpack, MVVM,  MVI.
+♘ Skilled in core Android architecture and best practices, including Jetpack, MVVM,  MVI.
 <br/> 
 
-♘ Experienced in building cross platform apps with React Native, Flutter, and Ionic Capacitor.
+♞ Experienced in building cross platform apps with React Native, Flutter, and Ionic Capacitor.
 <br/>  
 
-♞ Progressing in Native Android, aiming to master both Android and iOS.
+♘ Progressing in Native Android, aiming to master both Android and iOS.
 
 ##
 
@@ -89,14 +79,34 @@ $${\color{lightblue}- \space Nova \space -}$$
 
 <div align="center">
 
-ɢɪᴛʜᴜʙ ʀᴀɴᴋɪɴɢ - ꜱʀɪ ʟᴀɴᴋᴀ  <br/>  
+ɢɪᴛʜᴜʙ ᴘᴜʙʟɪᴄ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ ʀᴀɴᴋɪɴɢ <br/> - ꜱʀɪ ʟᴀɴᴋᴀ -<br/>  
   
-[![Most Active User](https://img.shields.io/badge/%20Most%20Active%20User%20➤-black)](#)
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/NovaLogics.svg)](#)
 
 </div>
 
  ##
+
+ <details>
+ <summary> Reflection Note </summary>
+
+<br>
+
+```Ada
+-- with Ada.Text_IO; use Ada.Text_IO; procedure
+
+EVERYTHING is
+    CHANGING : constant String := "ALWAYS";
+begin
+   Put_Line ( 
+    "THE ONLY CONSTANT IS CHANGE" 
+    );
+end EVERYTHING;
+```
+
+ </details>
+
+
 
  <!-- <samp>♖ MOST ACTIVE USER RANKING ♖ </samp> -->
 <!-- https://user-badge.committers.top/sri_lanka/NovaLogics.svg  -->

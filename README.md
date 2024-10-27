@@ -1,13 +1,14 @@
  ### ⛾ <strong> I go by Nova </strong> ⛾
 > ## <sup>\>/ Shavinda Dissanayake </sup>
 
-
+> with Ada.Text_IO; use Ada.Text_IO; procedure 
 ```Ada
-with Ada.Text_IO; use Ada.Text_IO; procedure 
 EVERYTHING is
     CHANGING : constant String := "ALWAYS";
 begin
-   Put_Line ( "THE ONLY CONSTANT IS CHANGE" );
+   Put_Line ( 
+    "THE ONLY CONSTANT IS CHANGE" 
+    );
 end EVERYTHING;
 ```
 

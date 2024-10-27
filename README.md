@@ -1,17 +1,5 @@
  ## ⛾ <strong> I go by Nova </strong> <em>{ \>/ Shavinda Dissanayake }</em> ⛾
 
-
-> with Ada.Text_IO; use Ada.Text_IO; procedure 
-```Ada
-EVERYTHING is
-    CHANGING : constant String := "ALWAYS";
-begin
-   Put_Line ( 
-    "THE ONLY CONSTANT IS CHANGE" 
-    );
-end EVERYTHING;
-```
-
 <br>
 
 ♘ **Senior Software Engineer** with 𝟔+ years of experience in mobile app development, primarily specializing in **Android**.
@@ -99,6 +87,27 @@ end EVERYTHING;
 </div>
 
  ##
+
+ <details>
+ <summary> Reflection Note </summary>
+
+<br>
+
+```Ada
+-- with Ada.Text_IO; use Ada.Text_IO; procedure
+
+EVERYTHING is
+    CHANGING : constant String := "ALWAYS";
+begin
+   Put_Line ( 
+    "THE ONLY CONSTANT IS CHANGE" 
+    );
+end EVERYTHING;
+```
+
+ </details>
+
+
 
  <!-- <samp>♖ MOST ACTIVE USER RANKING ♖ </samp> -->
 <!-- https://user-badge.committers.top/sri_lanka/NovaLogics.svg  -->

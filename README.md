@@ -1,5 +1,11 @@
  ## ⛾ <strong> I go by Nova </strong> <em>{ \>/ Shavinda Dissanayake }</em> ⛾
 
+<div align="center">
+
+♜♞♝♛♚♝♞♜ <br>🏟
+♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟ 
+</div>
+
 <br>
 
 ♘ **Senior Software Engineer** with 𝟔+ years of experience in mobile app development, primarily specializing in **Android**.

@@ -1,16 +1,20 @@
- ### ⛾ <strong> I go by Nova </strong> &ensp; <em>{ \>/ Shavinda Dissanayake }</em> ⛾
-◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥◤◢◣◥  
+ ### 𒄆 <strong> I go by Nova 𐂃 </strong> &ensp; <em>{ \>/ Shavinda Dissanayake }</em> 𒄆
+꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏
 
-♞ **Senior Software Engineer** with 𝟔+ years of experience in mobile app development, primarily specializing in **Android**.
+𒆙 **Senior Software Engineer** with 𝟔+ years of experience in mobile app development, primarily specializing in **Android**.
 <br/> 
 
-♘ Skilled in core Android architecture and best practices, including Jetpack, MVVM,  MVI.
+𒆙 Skilled in core Android architecture and best practices, including Jetpack, MVVM,  MVI.
 <br/> 
 
-♞ Experienced in building cross platform apps with React Native, Flutter, and Ionic Capacitor.
+𒆙 Experienced in building cross platform apps with React Native, Flutter, and Ionic Capacitor.
 <br/>  
 
-♘ Progressing in Native Android, aiming to master both Android and iOS.
+𒆙 Progressing in Native Android, aiming to master both Android and iOS.
+
+ <!--  ▄︻̷̿┻̿═━一  ♞▀▄▀▄♝▀▄ 𒅒𒈔𒅒𒇫𒄆 🀢 🀣 🀦 🀤 🀥 𓅇
+🀥𐦐   𐦆  𐂂   𐦖  𐂃  𖤍 🜲  *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚𓅓ᯓ★ ᯓ★:
+ 𒆙 🙤 ꘏ ꘏ ꘏ ꘏  𐂃  ꘏ 𖤍  ꘏ 𐂂  ꘏  ꘏ ꘏ ꘏ 🙦 𒆙  -->
 
 ##
 

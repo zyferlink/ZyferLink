@@ -82,9 +82,12 @@
 
  ᴜɴᴅᴇʀᴡᴀʏ ᴘʀᴏᴊᴇᴄᴛꜱ
 
+ [𝐒𝐓𝐘𝐋𝐄𝐒 𝚋𝚢 𝙽𝚘𝚟𝚊](https://github.com/NovaLogics/styles-by-nova-android-app) &ensp; ✦ &ensp;
+ [𝐇𝐄𝐗𝐀](https://github.com/NovaLogics/styles-by-nova-android-app)
 
-<img src="./assets/demo/gif_styels_1.gif"  width="160" height="360" />
-<img src="./assets/demo/gif_styels_2.gif"  width="160" height="360" />
+
+<img src="./assets/demo/gif_styles_1.gif"  width="160" height="360" />
+<img src="./assets/demo/gif_styles_2.gif"  width="160" height="360" />
 <img src="./assets/demo/gif_hexa_1.gif"  width="160" height="360" />
 <img src="./assets/demo/gif_hexa_2.gif"  width="160" height="360" />
 

@@ -78,6 +78,20 @@
 
  ##
 
+<div align="center">
+
+ ᴜɴᴅᴇʀᴡᴀʏ ᴘʀᴏᴊᴇᴄᴛꜱ
+
+
+<img src="./assets/demo/gif_styels_1.gif"  width="160" height="360" />
+<img src="./assets/demo/gif_styels_2.gif"  width="160" height="360" />
+<img src="./assets/demo/gif_hexa_1.gif"  width="160" height="360" />
+<img src="./assets/demo/gif_hexa_2.gif"  width="160" height="360" />
+
+</div>
+
+ ##
+
  <details>
  <summary> Reflection Note </summary>
 

@@ -16,6 +16,10 @@
 🀥𐦐   𐦆  𐂂   𐦖  𐂃  𖤍 🜲  *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚𓅓ᯓ★ ᯓ★:
  𒆙 🙤 ꘏ ꘏ ꘏ ꘏  𐂃  ꘏ 𖤍  ꘏ 𐂂  ꘏  ꘏ ꘏ ꘏ 🙦 𒆙  -->
 
+<br>
+
+ <img align="center" height="30" src="https://img.shields.io/badge/PROFILE_VIEWS_➤-000000?style=for-the-badge&logo=planetscale&logoColor=5FB709"/>   <img align="center" src="https://profile-counter.glitch.me/{NovaLogics}/count.svg"/>  <br>
+
 ##
 
 
@@ -56,31 +60,23 @@
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white )](#)
 
+
+𖤍 ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ 𖤍
+
+<img align="center" height="23" src="https://img.shields.io/badge/Contribution_Ranking_➤-grey?logo=trustpilot&logoColor=53FC19"/> <img align="center" height="23" src="https://user-badge.committers.top/sri_lanka/NovaLogics.svg"/>  
+
+
 </div>
+
 
 ##
 
-<!-- ![](https://github-profile-trophy.vercel.app/?username=NovaLogics&theme=oldie&no-frame=false&no-bg=true&margin-w=4) -->
-<div align="center"> 
-ᴘʀᴏꜰɪʟᴇ ᴠɪᴇᴡꜱ​  <br/>   
-<img align="center" src="https://profile-counter.glitch.me/{NovaLogics}/count.svg"/>
-</div>
+<br>
 
- ##
 
 <div align="center">
 
-ɢɪᴛʜᴜʙ ᴘᴜʙʟɪᴄ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ ʀᴀɴᴋɪɴɢ <br/> - ꜱʀɪ ʟᴀɴᴋᴀ -<br/>  
-  
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/NovaLogics.svg)](#)
-
-</div>
-
- ##
-
-<div align="center">
-
- ᴜɴᴅᴇʀᴡᴀʏ ᴘʀᴏᴊᴇᴄᴛꜱ
+ \- ᴜɴᴅᴇʀᴡᴀʏ ᴘʀᴏᴊᴇᴄᴛꜱ -
 
  [𝐒𝐓𝐘𝐋𝐄𝐒 𝚋𝚢 𝙽𝚘𝚟𝚊](https://github.com/NovaLogics/styles-by-nova-android-app) &ensp; ✦ &ensp;
  [𝐇𝐄𝐗𝐀](https://github.com/NovaLogics/hexa-harry-potter-android-app)

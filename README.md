@@ -18,9 +18,8 @@
 
 <br>
 
- <img align="center" height="30" src="https://img.shields.io/badge/PROFILE_VIEWS_➤-000000?style=for-the-badge&logo=dart&logoColor=white"/>   <img align="center" src="https://profile-counter.glitch.me/{NovaLogics}/count.svg"/>  <br>
+ <img align="center" height="30" src="https://img.shields.io/badge/PROFILE_VIEWS_➤-000000?style=for-the-badge&logo=planetscale&logoColor=5FB709"/>   <img align="center" src="https://profile-counter.glitch.me/{NovaLogics}/count.svg"/>  <br>
 
- 
 ##
 
 
@@ -61,38 +60,14 @@
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white )](#)
 
+
+𖤍 ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ 𖤍
+
+<img align="center" height="23" src="https://img.shields.io/badge/Contribution_Ranking_➤-grey?logo=trustpilot&logoColor=53FC19"/> <img align="center" height="23" src="https://user-badge.committers.top/sri_lanka/NovaLogics.svg"/>  
+
+
 </div>
 
-
-<br>
-
-
-<div align="center"> 
-
-<table>
- <tr>
-  <td>
-    <div align="center"> 
-      <img width="380" height="1">
- 
-ᴘʀᴏꜰɪʟᴇ ᴠɪᴇᴡꜱ​  <br/>   
-<img align="center" src="https://profile-counter.glitch.me/{NovaLogics}/count.svg"/>
-    </div>
-  </td>
-
-<td >
-  <div align="center">
-   <img width="380" height="1">
-
-ᴘᴜʙʟɪᴄ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ʀᴀɴᴋɪɴɢ  -ʟᴋ-<br/>  
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/NovaLogics.svg)](#)
-
-  </div>
-  </td>
-</tr>
-</table>
-
-</div>
 
 ##
 

@@ -16,6 +16,11 @@
 🀥𐦐   𐦆  𐂂   𐦖  𐂃  𖤍 🜲  *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚𓅓ᯓ★ ᯓ★:
  𒆙 🙤 ꘏ ꘏ ꘏ ꘏  𐂃  ꘏ 𖤍  ꘏ 𐂂  ꘏  ꘏ ꘏ ꘏ 🙦 𒆙  -->
 
+<br>
+
+ <img align="center" height="30" src="https://img.shields.io/badge/PROFILE_VIEWS_➤-000000?style=for-the-badge&logo=dart&logoColor=white"/>   <img align="center" src="https://profile-counter.glitch.me/{NovaLogics}/count.svg"/>  <br>
+
+ 
 ##
 
 
@@ -89,6 +94,7 @@
 
 </div>
 
+##
 
 <br>
 
@@ -101,10 +107,10 @@
  [𝐇𝐄𝐗𝐀](https://github.com/NovaLogics/hexa-harry-potter-android-app)
 
 
-<img src="./assets/demo/gif_styles_1.gif"  width="150" height="320" />
-<img src="./assets/demo/gif_styles_2.gif"  width="150" height="320" />
-<img src="./assets/demo/gif_hexa_1.gif"  width="150" height="320" />
-<img src="./assets/demo/gif_hexa_2.gif"  width="150" height="320" />
+<img src="./assets/demo/gif_styles_1.gif"  width="160" height="360" />
+<img src="./assets/demo/gif_styles_2.gif"  width="160" height="360" />
+<img src="./assets/demo/gif_hexa_1.gif"  width="160" height="360" />
+<img src="./assets/demo/gif_hexa_2.gif"  width="160" height="360" />
 
 </div>
 

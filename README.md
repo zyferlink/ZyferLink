@@ -25,21 +25,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaLogics&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&langs_count=20&count_private=true)]()
    <!--stats-->
   <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dizzcode&show_icons=true&line_height=27&theme=dracula&hide_border=false)<br/> -->
-##
 </div>
 
-<div align="center">
-
-ꜱᴏᴄɪᴀʟꜱ  <br/>
-
-♨ 
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=Instagram&labelColor=black&color=black&logoColor=white&label=%20)](https://instagram.com/shavinda_dizz) ° 
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=black&color=black&logoColor=white&label=%20)](https://linkedin.com/in/rshavinda) °
-[![Facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&labelColor=black&color=black&logoColor=white&label=%20)](https://facebook.com/rshavinda) ° 
-[![Blogger](https://img.shields.io/static/v1?message=Blogger&logo=blogger&labelColor=black&color=black&logoColor=white&label=%20)](https://dizzcode.blogspot.com/)
- ♨
- </div>
- 
 ##
 
 <div align="center">
@@ -86,6 +73,23 @@
 ɢɪᴛʜᴜʙ ᴘᴜʙʟɪᴄ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ ʀᴀɴᴋɪɴɢ <br/> - ꜱʀɪ ʟᴀɴᴋᴀ -<br/>  
   
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/NovaLogics.svg)](#)
+
+</div>
+
+ ##
+
+<div align="center">
+
+ ᴜɴᴅᴇʀᴡᴀʏ ᴘʀᴏᴊᴇᴄᴛꜱ
+
+ [𝐒𝐓𝐘𝐋𝐄𝐒 𝚋𝚢 𝙽𝚘𝚟𝚊](https://github.com/NovaLogics/styles-by-nova-android-app) &ensp; ✦ &ensp;
+ [𝐇𝐄𝐗𝐀](https://github.com/NovaLogics/hexa-harry-potter-android-app)
+
+
+<img src="./assets/demo/gif_styles_1.gif"  width="160" height="360" />
+<img src="./assets/demo/gif_styles_2.gif"  width="160" height="360" />
+<img src="./assets/demo/gif_hexa_1.gif"  width="160" height="360" />
+<img src="./assets/demo/gif_hexa_2.gif"  width="160" height="360" />
 
 </div>
 

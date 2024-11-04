@@ -97,10 +97,10 @@
  [𝐇𝐄𝐗𝐀](https://github.com/NovaLogics/hexa-harry-potter-android-app)
 
 
-<img src="./assets/demo/gif_styles_1.gif"  width="160" height="360" />
-<img src="./assets/demo/gif_styles_2.gif"  width="160" height="360" />
-<img src="./assets/demo/gif_hexa_1.gif"  width="160" height="360" />
-<img src="./assets/demo/gif_hexa_2.gif"  width="160" height="360" />
+<img src="./assets/demo/gif_styles_1.gif"  width="150" height="320" />
+<img src="./assets/demo/gif_styles_2.gif"  width="150" height="320" />
+<img src="./assets/demo/gif_hexa_1.gif"  width="150" height="320" />
+<img src="./assets/demo/gif_hexa_2.gif"  width="150" height="320" />
 
 </div>
 

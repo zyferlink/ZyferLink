@@ -58,25 +58,36 @@
 
 </div>
 
-##
 
-<!-- ![](https://github-profile-trophy.vercel.app/?username=NovaLogics&theme=oldie&no-frame=false&no-bg=true&margin-w=4) -->
+
 <div align="center"> 
+
+<table>
+ <tr>
+  <td>
+    <div align="center"> 
+      <img width="441" height="1">
+ 
 ᴘʀᴏꜰɪʟᴇ ᴠɪᴇᴡꜱ​  <br/>   
 <img align="center" src="https://profile-counter.glitch.me/{NovaLogics}/count.svg"/>
-</div>
+    </div>
+  </td>
 
- ##
+<td >
+  <div align="center">
+   <img width="441" height="1">
 
-<div align="center">
-
-ɢɪᴛʜᴜʙ ᴘᴜʙʟɪᴄ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ ʀᴀɴᴋɪɴɢ <br/> - ꜱʀɪ ʟᴀɴᴋᴀ -<br/>  
-  
+ᴘᴜʙʟɪᴄ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ʀᴀɴᴋɪɴɢ  -ʟᴋ-<br/>  
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/NovaLogics.svg)](#)
 
+  </div>
+  </td>
+</tr>
+</table>
+
 </div>
 
- ##
+
 
 <div align="center">
 

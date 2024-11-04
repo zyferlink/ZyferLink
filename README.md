@@ -59,6 +59,8 @@
 </div>
 
 
+<br>
+
 
 <div align="center"> 
 
@@ -66,7 +68,7 @@
  <tr>
   <td>
     <div align="center"> 
-      <img width="441" height="1">
+      <img width="380" height="1">
  
 ᴘʀᴏꜰɪʟᴇ ᴠɪᴇᴡꜱ​  <br/>   
 <img align="center" src="https://profile-counter.glitch.me/{NovaLogics}/count.svg"/>
@@ -75,7 +77,7 @@
 
 <td >
   <div align="center">
-   <img width="441" height="1">
+   <img width="380" height="1">
 
 ᴘᴜʙʟɪᴄ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ʀᴀɴᴋɪɴɢ  -ʟᴋ-<br/>  
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/NovaLogics.svg)](#)
@@ -87,6 +89,8 @@
 
 </div>
 
+
+<br>
 
 
 <div align="center">

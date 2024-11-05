@@ -61,7 +61,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white )](#)
 
 
-𖤍 ════════════════════════════════════ 𖤍
+✧ ════════════════════════════════════ ✧
 
 <img align="center" height="23" src="https://img.shields.io/badge/Contribution_Ranking_➤-grey?logo=trustpilot&logoColor=white&labelColor=43B02A"/> 
 <img align="center" height="23" src="https://user-badge.committers.top/sri_lanka/NovaLogics.svg"/>  

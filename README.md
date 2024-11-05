@@ -18,7 +18,7 @@
 
 <br>
 
- <img align="center" height="24" src="https://img.shields.io/badge/PROFILE_VIEWS_➤-000000?style=for-the-badge&logo=planetscale&logoColor=5FB709"/>
+ <img align="center" height="24" src="https://img.shields.io/badge/PROFILE_VIEWS_➤-000000?style=for-the-badge&logo=github&logoColor=4EAA25"/>
  <img align="center" height="24" src="https://profile-counter.glitch.me/{NovaLogics}/count.svg"/>  <br>
 
 ##
@@ -61,18 +61,17 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white )](#)
 
 
-𖤍 ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ 𖤍
+𖤍 ════════════════════════════════════ 𖤍
 
-<img align="center" height="23" src="https://img.shields.io/badge/Contribution_Ranking_➤-grey?logo=trustpilot&logoColor=53FC19"/> <img align="center" height="23" src="https://user-badge.committers.top/sri_lanka/NovaLogics.svg"/>  
+<img align="center" height="23" src="https://img.shields.io/badge/Contribution_Ranking_➤-grey?logo=trustpilot&logoColor=white&labelColor=43B02A"/> 
+<img align="center" height="23" src="https://user-badge.committers.top/sri_lanka/NovaLogics.svg"/>  
 
 
 </div>
 
-
-##
-
 <br>
 
+##
 
 <div align="center">
 

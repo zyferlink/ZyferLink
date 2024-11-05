@@ -23,13 +23,12 @@
 
 ##
 
-
 <div align="center">
 
 [![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=NovaLogics&show_icons=true&line_height=27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaLogics&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&langs_count=20&count_private=true)]()
-   <!--stats-->
-  <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dizzcode&show_icons=true&line_height=27&theme=dracula&hide_border=false)<br/> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaLogics&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&langs_count=10&count_private=true)]()
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dizzcode&show_icons=true&line_height=27&theme=dracula&hide_border=false)<br/> -->
+
 </div>
 
 ##

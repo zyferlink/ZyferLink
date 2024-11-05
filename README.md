@@ -1,5 +1,5 @@
  ### 𒄆 <strong> I go by Nova 𐂃 </strong> &ensp; <em>{ \>/ Shavinda Dissanayake }</em> 𒄆
-꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏
+꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏
 
 𒆙 **Senior Software Engineer** with 𝟔+ years of experience in mobile app development, primarily specializing in **Android**.
 <br/> 
@@ -18,17 +18,16 @@
 
 <br>
 
- <img align="center" height="30" src="https://img.shields.io/badge/PROFILE_VIEWS_➤-000000?style=for-the-badge&logo=planetscale&logoColor=5FB709"/>   <img align="center" src="https://profile-counter.glitch.me/{NovaLogics}/count.svg"/>  <br>
+ <img align="center" height="24" src="https://img.shields.io/badge/PROFILE_VIEWS_➤-000000?style=for-the-badge&logo=github&logoColor=4EAA25"/><img align="center" height="24" src="https://profile-counter.glitch.me/{NovaLogics}/count.svg"/>
 
 ##
-
 
 <div align="center">
 
 [![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=NovaLogics&show_icons=true&line_height=27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaLogics&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&langs_count=20&count_private=true)]()
-   <!--stats-->
-  <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dizzcode&show_icons=true&line_height=27&theme=dracula&hide_border=false)<br/> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaLogics&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&langs_count=10&count_private=true)]()
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dizzcode&show_icons=true&line_height=27&theme=dracula&hide_border=false)<br/> -->
+
 </div>
 
 ##
@@ -61,18 +60,17 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white )](#)
 
 
-𖤍 ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ ▫ 𖤍
+✧ ─────────────────────────── ✧
 
-<img align="center" height="23" src="https://img.shields.io/badge/Contribution_Ranking_➤-grey?logo=trustpilot&logoColor=53FC19"/> <img align="center" height="23" src="https://user-badge.committers.top/sri_lanka/NovaLogics.svg"/>  
+<img align="center" height="23" src="https://img.shields.io/badge/Contribution_Ranking_➤-grey?logo=trustpilot&logoColor=white&labelColor=43B02A"/> 
+<img align="center" height="23" src="https://user-badge.committers.top/sri_lanka/NovaLogics.svg"/>  
 
 
 </div>
 
-
-##
-
 <br>
 
+##
 
 <div align="center">
 

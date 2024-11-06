@@ -10,13 +10,10 @@
 𒆙 Experienced in building cross platform apps with React Native, Flutter, and Ionic Capacitor.
 <br/>  
 
-𒆙 Progressing in Native Android, aiming to master both Android and iOS.
-
  <!--  ▄︻̷̿┻̿═━一  ♞▀▄▀▄♝▀▄ 𒅒𒈔𒅒𒇫𒄆 🀢 🀣 🀦 🀤 🀥 𓅇
 🀥𐦐   𐦆  𐂂   𐦖  𐂃  𖤍 🜲  *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚𓅓ᯓ★ ᯓ★:
  𒆙 🙤 ꘏ ꘏ ꘏ ꘏  𐂃  ꘏ 𖤍  ꘏ 𐂂  ꘏  ꘏ ꘏ ꘏ 🙦 𒆙  -->
-
-<br>
+<br/>  
 
  <img align="center" height="24" src="https://img.shields.io/badge/PROFILE_VIEWS_➤-000000?style=for-the-badge&logo=github&logoColor=4EAA25"/><img align="center" height="24" src="https://profile-counter.glitch.me/{NovaLogics}/count.svg"/>
 
@@ -60,15 +57,24 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white )](#)
 
 
-✧ ─────────────────────────── ✧
+##
 
-<img align="center" height="23" src="https://img.shields.io/badge/Contribution_Ranking_➤-grey?logo=trustpilot&logoColor=white&labelColor=43B02A"/> 
+ <details>
+ <summary> 𒄆 ᴘᴜʙʟɪᴄ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ʀᴀɴᴋɪɴɢ 𒄆<br>< ꜱʀɪ ʟᴀɴᴋᴀ ></summary>
+
+```yaml
+https://committers.top/sri_lanka.html
+```
+</details>  
+
+
+
 <img align="center" height="23" src="https://user-badge.committers.top/sri_lanka/NovaLogics.svg"/>  
 
 
 </div>
 
-<br>
+
 
 ##
 

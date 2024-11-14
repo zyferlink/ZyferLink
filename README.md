@@ -1,7 +1,16 @@
- ### 𒄆 <strong> I go by Nova 𐂃 </strong> &ensp; <em>{ \>/ Shavinda Dissanayake }</em> 𒄆
-꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏
 
-𒆙 **Senior Software Engineer** with 𝟔+ years of experience in mobile app development, primarily specializing in **Android**.
+ <h2 align="center">  <strong> I go by Nova 𐂃༺ </strong><br> 
+ 𒄆 <em> { >/ Shavinda Dissanayake }</em> 𒄆  </h2>
+
+
+<h3 align="center">Mobile Engineer | UI / UX Engineer </h3>
+
+<div align="center">
+꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏
+</div>
+<br/> 
+
+𒆙 **Senior Software Engineer** with **6+** years of experience in mobile app development, primarily specializing in **Android**.
 <br/> 
 
 𒆙 Skilled in core Android architecture and best practices, including Jetpack, MVVM,  MVI.
@@ -15,16 +24,18 @@
  𒆙 🙤 ꘏ ꘏ ꘏ ꘏  𐂃  ꘏ 𖤍  ꘏ 𐂂  ꘏  ꘏ ꘏ ꘏ 🙦 𒆙  -->
 <br/>  
 
+
+
  <img align="center" height="24" src="https://img.shields.io/badge/PROFILE_VIEWS_➤-000000?style=for-the-badge&logo=github&logoColor=4EAA25"/><img align="center" height="24" src="https://profile-counter.glitch.me/{NovaLogics}/count.svg"/>
 
 ##
 
 <div align="center">
 
-[![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=NovaLogics&show_icons=true&line_height=27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaLogics&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&langs_count=10&count_private=true)]()
+[![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=NovaLogics&show_icons=true&line_height=28&show_icons=true&count_private=true&theme=react&hide_border=true&number_format=long&bg_color=0D1117)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaLogics&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&langs_count=10&count_private=true&hide=scss)]()
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dizzcode&show_icons=true&line_height=27&theme=dracula&hide_border=false)<br/> -->
-
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NovaLogics&layout=compact&bg_color=0D1117&text_color=fff&hide_border=true&theme=vision_friendly_dark)]()
 </div>
 
 ##

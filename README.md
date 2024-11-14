@@ -1,6 +1,6 @@
 
  <h2 align="center">  <strong> I go by Nova 𐂃༺ </strong><br> 
- 𒄆 <em> { >/ Shavinda Dissanayake }</em> 𒄆  </h2>
+ 𒄆 <em> >/ Shavinda Dissanayake </em> 𒄆  </h2>
 
 
 <div align="center">

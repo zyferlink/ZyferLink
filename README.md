@@ -26,9 +26,11 @@
  𒆙 🙤 ꘏ ꘏ ꘏ ꘏  𐂃  ꘏ 𖤍  ꘏ 𐂂  ꘏  ꘏ ꘏ ꘏ 🙦 𒆙  
  ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏-->
 
+<div align="center">
 
-<h3>  <img src="./assets/images/img_about.png"  height="50">⇙ A little more about me ⇙  </h3>
+║│█║▌║▌║▌│█║▌║▌║▌│█║▌║▌║
 
+<img src="./assets/images/img_about.png"  height="50">
 
 <details>
 <summary> <strong> Insights & Interests </strong> </summary>
@@ -40,7 +42,6 @@
 
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NovaLogics&layout=compact&bg_color=0D1117&text_color=fff&hide_border=true&theme=github_dark)]()
 
-<br>
 
 #
 
@@ -59,24 +60,13 @@
  </details>
 
 
-<details>
-<summary> <strong> Technical Skills </strong> </summary>
-<br>
-
-| **Technical Skills** |
-| --- |
-| **Languages & Technologies:** <br> Android (Java, Kotlin), Flutter (Dart), React Native (JS), C#, Swift, <br> Java SE, RxJava, AIDL, Dagger, OpenCV, BLE, OpenGL |
-| **Tools & Software:** <br> Android Studio, IntelliJ IDEA, VS Code, Visual Studio, Unity (2D),  Postman, Adobe CC |
-| **Databases:** <br> MySQL, MS-SQL, SQLite, Firebase, Room DB |
-| **Android Architecture Components:** <br> Lifecycle-aware components, Compose (UI Toolkit), ViewModel, LiveData, Navigation, Hilt &nbsp; <br> View Binding, Data Binding, Room DB, WorkManager, DataStore   |
-| **Design Patterns:** <br> MVI, MVVM, MVP, MVC, Facade, Observer, BLoC |
-| **Version Control:** <br> GitHub, GitLab |
-
-</details>
 
  <br>
 
+
  <img align="center" height="24" src="https://img.shields.io/badge/PROFILE_VIEWS_➤-000000?style=for-the-badge&logo=github&logoColor=4EAA25"/><img align="center" height="24" src="https://profile-counter.glitch.me/{NovaLogics}/count.svg"/>
+
+</div>
 
 ##
 
@@ -92,7 +82,25 @@
 
 <div align="center">
 
-ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ / ꜱᴋɪʟʟꜱ <br/> 
+
+<details>
+<summary> ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ / ꜱᴋɪʟʟꜱ  </summary>
+<br>
+
+| **Technical Skills** |
+| --- |
+| **Languages & Technologies:** <br> Android (Java, Kotlin), Flutter (Dart), React Native (JS), C#, Swift, <br> Java SE, RxJava, AIDL, Dagger, OpenCV, BLE, OpenGL |
+| **Tools & Software:** <br> Android Studio, IntelliJ IDEA, VS Code, Visual Studio, Unity (2D),  Postman, Adobe CC |
+| **Databases:** <br> MySQL, MS-SQL, SQLite, Firebase, Room DB |
+| **Android Architecture Components:** <br> Lifecycle-aware components, Compose (UI Toolkit), ViewModel, LiveData, Navigation, Hilt &nbsp; <br> View Binding, Data Binding, Room DB, WorkManager, DataStore   |
+| **Design Patterns:** <br> MVI, MVVM, MVP, MVC, Facade, Observer, BLoC |
+| **Version Control:** <br> GitHub, GitLab |
+
+ <br/> 
+
+</details>
+
+ <br/> 
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
 [![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)](#)

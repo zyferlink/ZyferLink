@@ -22,9 +22,53 @@
  <!--  ▄︻̷̿┻̿═━一  ♞▀▄▀▄♝▀▄ 𒅒𒈔𒅒𒇫𒄆 🀢 🀣 🀦 🀤 🀥 𓅇
 🀥𐦐   𐦆  𐂂   𐦖  𐂃  𖤍 🜲  *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚𓅓ᯓ★ ᯓ★:
  𒆙 🙤 ꘏ ꘏ ꘏ ꘏  𐂃  ꘏ 𖤍  ꘏ 𐂂  ꘏  ꘏ ꘏ ꘏ 🙦 𒆙  -->
-<br/>  
+
+<h3> <img src="./assets/gifs/lion.gif" width="50"> A little more about me...  </h3>
+
+| [Name] <br> Shavinda Dissanayake | [Education] <br> BSc in IT from SLIIT, Sri Lanka | [Current Occupation] <br> Senior Software Engineer |
+| - | - | - |
 
 
+|  Interests  |
+| - | 
+| **Commenting on Code Like a Poet** - *Because every line tells a story* |
+| **Debugging Life Choices** - *Figuring out where it all went wrong* |
+|**Code Commenting Art** - *Writing cryptic messages for future generations*  |
+| **Coffee Compiler** - *Running on Java (coffee) all day long* | 
+| **Over engineering Simple Problems for fun** - *Turning "Hello World" into a Microservice, <br>Because why not?* | 
+| **Refactoring for Sport** - *Because it can always be cleaner* | 
+| **IDE Personalization** - *Making that workspace feel like home* | 
+
+
+| **Technical Skills** |
+| --- |
+| **Languages & Technologies:** <br> Android (Java, Kotlin), Flutter (Dart), React Native (JS), C#, Swift, <br> Java SE, RxJava, AIDL, Dagger, OpenCV, BLE, OpenGL |
+| **Tools & Software:** <br> Android Studio, IntelliJ IDEA, VS Code, Visual Studio, Unity (2D),  Postman, Adobe CC |
+| **Databases:** <br> MySQL, MS-SQL, SQLite, Firebase, Room DB |
+| **Android Architecture Components:** <br> Lifecycle-aware components, Compose (UI Toolkit), ViewModel, LiveData, Navigation,  <br> View Binding, Data Binding, Room DB, WorkManager, DataStore , Hilt , |
+| **Design Patterns:** <br> MVI, MVVM, MVP, MVC, Facade, Observer, BLoC |
+| **Version Control:** <br> GitHub, GitLab |
+
+
+<details>
+<summary>  Quick Info </summary>
+
+<br>
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NovaLogics&layout=compact&bg_color=0D1117&text_color=fff&hide_border=true&theme=github_dark)]()
+
+ </details>
+
+<details>
+<summary>  Profile Details </summary>
+
+<br>
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NovaLogics&layout=compact&bg_color=0D1117&text_color=fff&hide_border=true&theme=github_dark)]()
+
+ </details>
+
+ <br>
 
  <img align="center" height="24" src="https://img.shields.io/badge/PROFILE_VIEWS_➤-000000?style=for-the-badge&logo=github&logoColor=4EAA25"/><img align="center" height="24" src="https://profile-counter.glitch.me/{NovaLogics}/count.svg"/>
 
@@ -35,7 +79,7 @@
 [![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=NovaLogics&show_icons=true&line_height=28&show_icons=true&count_private=true&theme=react&hide_border=true&number_format=long&bg_color=0D1117)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaLogics&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&langs_count=10&count_private=true&hide=scss)]()
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dizzcode&show_icons=true&line_height=27&theme=dracula&hide_border=false)<br/> -->
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NovaLogics&layout=compact&bg_color=0D1117&text_color=fff&hide_border=true&theme=vision_friendly_dark)]()
+
 </div>
 
 ##

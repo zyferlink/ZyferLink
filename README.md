@@ -16,7 +16,6 @@
 <br/> 
 
 𒆙 Skilled in using design patterns like **MVI**, **MVVM**, and **BLoC** to create clean and efficient apps
-<br/> 
 
 </div>
 
@@ -32,7 +31,7 @@
 
 
 <details>
-<summary> <strong> Quick Info </strong> </summary>
+<summary> <strong> Insights & Interests </strong> </summary>
 
 <br>
 
@@ -41,13 +40,9 @@
 
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NovaLogics&layout=compact&bg_color=0D1117&text_color=fff&hide_border=true&theme=github_dark)]()
 
- </details>
-
-
-
-<details>
-<summary> <strong> Interests </strong> </summary>
 <br>
+
+#
 
 🌾 <img  src="./assets/gifs/lion.gif" width="100">  🌾🌾🪨🌾
 
@@ -61,7 +56,7 @@
 | 🏋️‍♀️ **Refactoring for Sport** - *Because it can always be cleaner* | 
 | 🏚️ **IDE Personalization** - *Making that workspace feel like home* | 
 
-</details>
+ </details>
 
 
 <details>

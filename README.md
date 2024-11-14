@@ -25,19 +25,19 @@
 
 <h3> <img src="./assets/gifs/lion.gif" width="50"> A little more about me...  </h3>
 
-| [Name] <br> Shavinda Dissanayake | [Education] <br> BSc in IT from SLIIT, Sri Lanka | [Current Occupation] <br> Senior Software Engineer |
+| [Name] <br> Shavinda Dissanayake | [Education] <br> BSc in IT from SLIIT, Sri Lanka | [Current Role] <br> Senior Software Engineer |
 | - | - | - |
 
 
 |  Interests  |
 | - | 
-| **Commenting on Code Like a Poet** - *Because every line tells a story* |
-| **Debugging Life Choices** - *Figuring out where it all went wrong* |
-|**Code Commenting Art** - *Writing cryptic messages for future generations*  |
-| **Coffee Compiler** - *Running on Java (coffee) all day long* | 
-| **Over engineering Simple Problems for fun** - *Turning "Hello World" into a Microservice, <br>Because why not?* | 
-| **Refactoring for Sport** - *Because it can always be cleaner* | 
-| **IDE Personalization** - *Making that workspace feel like home* | 
+| 📜 **Commenting on Code Like a Poet** - *Because every line tells a story* |
+| 🐞 **Debugging Life Choices** - *Figuring out where it all went wrong* |
+| 🎨 **Code Commenting Art** - *Writing cryptic messages for future generations*  |
+| ☕ **Coffee Compiler** - *Running on Java (coffee) all day long* | 
+| 🏗️ **Over engineering Simple Problems for fun** - *Turning "Hello World" into a Microservice, <br>Because why not?* | 
+| 🏋️‍♀️ **Refactoring for Sport** - *Because it can always be cleaner* | 
+| 🏚️ **IDE Personalization** - *Making that workspace feel like home* | 
 
 
 | **Technical Skills** |
@@ -45,9 +45,10 @@
 | **Languages & Technologies:** <br> Android (Java, Kotlin), Flutter (Dart), React Native (JS), C#, Swift, <br> Java SE, RxJava, AIDL, Dagger, OpenCV, BLE, OpenGL |
 | **Tools & Software:** <br> Android Studio, IntelliJ IDEA, VS Code, Visual Studio, Unity (2D),  Postman, Adobe CC |
 | **Databases:** <br> MySQL, MS-SQL, SQLite, Firebase, Room DB |
-| **Android Architecture Components:** <br> Lifecycle-aware components, Compose (UI Toolkit), ViewModel, LiveData, Navigation,  <br> View Binding, Data Binding, Room DB, WorkManager, DataStore , Hilt , |
+| **Android Architecture Components:** <br> Lifecycle-aware components, Compose (UI Toolkit), ViewModel, LiveData, Navigation, Hilt &nbsp; <br> View Binding, Data Binding, Room DB, WorkManager, DataStore   |
 | **Design Patterns:** <br> MVI, MVVM, MVP, MVC, Facade, Observer, BLoC |
 | **Version Control:** <br> GitHub, GitLab |
+
 
 
 <details>

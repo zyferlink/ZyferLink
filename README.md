@@ -25,9 +25,6 @@
 
 <h3> <img src="./assets/gifs/lion.gif" width="50"> A little more about me...  </h3>
 
-| [Name] <br> Shavinda Dissanayake | [Education] <br> BSc in IT from SLIIT, Sri Lanka | [Current Role] <br> Senior Software Engineer |
-| - | - | - |
-
 
 |  Interests  |
 | - | 
@@ -55,6 +52,9 @@
 <summary>  Quick Info </summary>
 
 <br>
+
+| [Name] <br> &nbsp; Shavinda Dissanayake &nbsp; | [Education] <br> &nbsp;&nbsp;  BSc in IT from SLIIT, Sri Lanka &nbsp;&nbsp; | [Current Role] <br> &nbsp; Senior Software Engineer &nbsp; |
+| - | - | - |
 
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NovaLogics&layout=compact&bg_color=0D1117&text_color=fff&hide_border=true&theme=github_dark)]()
 

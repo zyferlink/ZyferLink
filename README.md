@@ -26,17 +26,6 @@
 <h3> <img src="./assets/gifs/lion.gif" width="50"> A little more about me...  </h3>
 
 
-| **Technical Skills** |
-| --- |
-| **Languages & Technologies:** <br> Android (Java, Kotlin), Flutter (Dart), React Native (JS), C#, Swift, <br> Java SE, RxJava, AIDL, Dagger, OpenCV, BLE, OpenGL |
-| **Tools & Software:** <br> Android Studio, IntelliJ IDEA, VS Code, Visual Studio, Unity (2D),  Postman, Adobe CC |
-| **Databases:** <br> MySQL, MS-SQL, SQLite, Firebase, Room DB |
-| **Android Architecture Components:** <br> Lifecycle-aware components, Compose (UI Toolkit), ViewModel, LiveData, Navigation, Hilt &nbsp; <br> View Binding, Data Binding, Room DB, WorkManager, DataStore   |
-| **Design Patterns:** <br> MVI, MVVM, MVP, MVC, Facade, Observer, BLoC |
-| **Version Control:** <br> GitHub, GitLab |
-
-
-
 <details>
 <summary>  Quick Info </summary>
 
@@ -64,6 +53,22 @@
 | 🏗️ **Over engineering Simple Problems for fun** - *Turning "Hello World" into a Microservice, <br>Because why not?* | 
 | 🏋️‍♀️ **Refactoring for Sport** - *Because it can always be cleaner* | 
 | 🏚️ **IDE Personalization** - *Making that workspace feel like home* | 
+
+</details>
+
+
+<details>
+<summary>  Technical Skills </summary>
+<br>
+
+| **Technical Skills** |
+| --- |
+| **Languages & Technologies:** <br> Android (Java, Kotlin), Flutter (Dart), React Native (JS), C#, Swift, <br> Java SE, RxJava, AIDL, Dagger, OpenCV, BLE, OpenGL |
+| **Tools & Software:** <br> Android Studio, IntelliJ IDEA, VS Code, Visual Studio, Unity (2D),  Postman, Adobe CC |
+| **Databases:** <br> MySQL, MS-SQL, SQLite, Firebase, Room DB |
+| **Android Architecture Components:** <br> Lifecycle-aware components, Compose (UI Toolkit), ViewModel, LiveData, Navigation, Hilt &nbsp; <br> View Binding, Data Binding, Room DB, WorkManager, DataStore   |
+| **Design Patterns:** <br> MVI, MVVM, MVP, MVC, Facade, Observer, BLoC |
+| **Version Control:** <br> GitHub, GitLab |
 
 </details>
 

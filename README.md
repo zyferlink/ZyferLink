@@ -3,27 +3,32 @@
  𒄆 <em> { >/ Shavinda Dissanayake }</em> 𒄆  </h2>
 
 
-<h3 align="center">Mobile Engineer | UI / UX Engineer </h3>
-
 <div align="center">
-꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏
-</div>
-<br/> 
+
+ <h3 align="center">Mobile Engineer  | UI / UX Engineer </h4>
+  <img src="./assets/images/batman_1.png"  height="90">
+
 
 𒆙 **Senior Software Engineer** with **6+** years of experience in mobile app development
 <br/> 
 
-𒆙 Expert in native **Android** (Java, Kotlin) and building cross-platform apps with **Flutter** , **React Native** and **Ionic Capacitor** 
+𒆙 Expert in **Native Android** and building cross-platform apps with **Flutter**, **React Native** and **Ionic** 
 <br/> 
 
 𒆙 Skilled in using design patterns like **MVI**, **MVVM**, and **BLoC** to create clean and efficient apps
 <br/> 
 
+</div>
+
+
+
  <!--  ▄︻̷̿┻̿═━一  ♞▀▄▀▄♝▀▄ 𒅒𒈔𒅒𒇫𒄆 🀢 🀣 🀦 🀤 🀥 𓅇
 🀥𐦐   𐦆  𐂂   𐦖  𐂃  𖤍 🜲  *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚𓅓ᯓ★ ᯓ★:
- 𒆙 🙤 ꘏ ꘏ ꘏ ꘏  𐂃  ꘏ 𖤍  ꘏ 𐂂  ꘏  ꘏ ꘏ ꘏ 🙦 𒆙  -->
+ 𒆙 🙤 ꘏ ꘏ ꘏ ꘏  𐂃  ꘏ 𖤍  ꘏ 𐂂  ꘏  ꘏ ꘏ ꘏ 🙦 𒆙  
+ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏-->
 
-<h3> ⤦ <img src="./assets/gifs/lion.gif" width="40"> A little more about me...  </h3>
+
+<h3>  <img src="./assets/images/img_about.png"  height="50">⇙ A little more about me ⇙  </h3>
 
 
 <details>
@@ -43,7 +48,9 @@
 <details>
 <summary> <strong> Interests </strong> </summary>
 <br>
- 
+
+🌾 <img  src="./assets/gifs/lion.gif" width="70">  🌾🌾🪨🌾
+
 |  Interests  |
 | - | 
 | 📜 **Commenting on Code Like a Poet** - *Because every line tells a story* |

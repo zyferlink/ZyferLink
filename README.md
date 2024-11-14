@@ -10,29 +10,29 @@
 </div>
 <br/> 
 
-𒆙 **Senior Software Engineer** with **6+** years of experience in mobile app development, primarily specializing in **Android**.
+𒆙 **Senior Software Engineer** with **6+** years of experience in mobile app development
 <br/> 
 
-𒆙 Skilled in core Android architecture and best practices, including Jetpack, MVVM,  MVI.
+𒆙 Expert in native **Android** (Java, Kotlin) and building cross-platform apps with **Flutter** , **React Native** and **Ionic Capacitor** 
 <br/> 
 
-𒆙 Experienced in building cross platform apps with React Native, Flutter, and Ionic Capacitor.
-<br/>  
+𒆙 Skilled in using design patterns like **MVI**, **MVVM**, and **BLoC** to create clean and efficient apps
+<br/> 
 
  <!--  ▄︻̷̿┻̿═━一  ♞▀▄▀▄♝▀▄ 𒅒𒈔𒅒𒇫𒄆 🀢 🀣 🀦 🀤 🀥 𓅇
 🀥𐦐   𐦆  𐂂   𐦖  𐂃  𖤍 🜲  *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚𓅓ᯓ★ ᯓ★:
  𒆙 🙤 ꘏ ꘏ ꘏ ꘏  𐂃  ꘏ 𖤍  ꘏ 𐂂  ꘏  ꘏ ꘏ ꘏ 🙦 𒆙  -->
 
-<h3> <img src="./assets/gifs/lion.gif" width="50"> A little more about me...  </h3>
+<h3> ⤦ <img src="./assets/gifs/lion.gif" width="40"> A little more about me...  </h3>
 
 
 <details>
-<summary>  Quick Info </summary>
+<summary> <strong> Quick Info </strong> </summary>
 
 <br>
 
 | [Name] <br> &nbsp; Shavinda Dissanayake &nbsp; | [Education] <br> &nbsp;&nbsp;  BSc in IT from SLIIT, Sri Lanka &nbsp;&nbsp; | [Current Role] <br> &nbsp; Senior Software Engineer &nbsp; |
-| - | - | - |
+| :-: | :-: | :-: |
 
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NovaLogics&layout=compact&bg_color=0D1117&text_color=fff&hide_border=true&theme=github_dark)]()
 
@@ -41,7 +41,7 @@
 
 
 <details>
-<summary>  Interests </summary>
+<summary> <strong> Interests </strong> </summary>
 <br>
  
 |  Interests  |
@@ -58,7 +58,7 @@
 
 
 <details>
-<summary>  Technical Skills </summary>
+<summary> <strong> Technical Skills </strong> </summary>
 <br>
 
 | **Technical Skills** |

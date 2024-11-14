@@ -5,7 +5,7 @@
 
 <div align="center">
 
- <h3 align="center">Mobile Engineer  | UI / UX Engineer </h4>
+ <h3 align="center">  Mobile Engineer&nbsp; ║ &nbsp;UI␥UX Engineer </h4>
   <img src="./assets/images/batman_1.png"  height="90">
 
 
@@ -49,7 +49,7 @@
 <summary> <strong> Interests </strong> </summary>
 <br>
 
-🌾 <img  src="./assets/gifs/lion.gif" width="70">  🌾🌾🪨🌾
+🌾 <img  src="./assets/gifs/lion.gif" width="100">  🌾🌾🪨🌾
 
 |  Interests  |
 | - | 

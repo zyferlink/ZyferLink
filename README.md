@@ -26,17 +26,6 @@
 <h3> <img src="./assets/gifs/lion.gif" width="50"> A little more about me...  </h3>
 
 
-|  Interests  |
-| - | 
-| 📜 **Commenting on Code Like a Poet** - *Because every line tells a story* |
-| 🐞 **Debugging Life Choices** - *Figuring out where it all went wrong* |
-| 🎨 **Code Commenting Art** - *Writing cryptic messages for future generations*  |
-| ☕ **Coffee Compiler** - *Running on Java (coffee) all day long* | 
-| 🏗️ **Over engineering Simple Problems for fun** - *Turning "Hello World" into a Microservice, <br>Because why not?* | 
-| 🏋️‍♀️ **Refactoring for Sport** - *Because it can always be cleaner* | 
-| 🏚️ **IDE Personalization** - *Making that workspace feel like home* | 
-
-
 | **Technical Skills** |
 | --- |
 | **Languages & Technologies:** <br> Android (Java, Kotlin), Flutter (Dart), React Native (JS), C#, Swift, <br> Java SE, RxJava, AIDL, Dagger, OpenCV, BLE, OpenGL |
@@ -60,14 +49,23 @@
 
  </details>
 
+
+
 <details>
-<summary>  Profile Details </summary>
-
+<summary>  Interests </summary>
 <br>
+ 
+|  Interests  |
+| - | 
+| 📜 **Commenting on Code Like a Poet** - *Because every line tells a story* |
+| 🐞 **Debugging Life Choices** - *Figuring out where it all went wrong* |
+| 🎨 **Code Commenting Art** - *Writing cryptic messages for future generations*  |
+| ☕ **Coffee Compiler** - *Running on Java (coffee) all day long* | 
+| 🏗️ **Over engineering Simple Problems for fun** - *Turning "Hello World" into a Microservice, <br>Because why not?* | 
+| 🏋️‍♀️ **Refactoring for Sport** - *Because it can always be cleaner* | 
+| 🏚️ **IDE Personalization** - *Making that workspace feel like home* | 
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NovaLogics&layout=compact&bg_color=0D1117&text_color=fff&hide_border=true&theme=github_dark)]()
-
- </details>
+</details>
 
  <br>
 

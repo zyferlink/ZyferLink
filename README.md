@@ -1,19 +1,85 @@
- ### 𒄆 <strong> I go by Nova 𐂃 </strong> &ensp; <em>{ \>/ Shavinda Dissanayake }</em> 𒄆
-꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏
 
-𒆙 **Senior Software Engineer** with 𝟔+ years of experience in mobile app development, primarily specializing in **Android**.
+ <h2 align="center">  <strong> I go by Nova 𐂃༺ </strong><br> 
+ 𒄆 <em> >/ Shavinda Dissanayake </em> 𒄆  </h2>
+
+
+<div align="center">
+
+ <h3 align="center">  Mobile Engineer&nbsp; ║ &nbsp;UI␥UX Engineer </h4>
+  <img src="./assets/images/batman_1.png"  height="90">
+
+
+𒆙 **Senior Software Engineer** with **6+** years of experience in mobile app development
 <br/> 
 
-𒆙 Skilled in core Android architecture and best practices, including Jetpack, MVVM,  MVI.
+𒆙 Expert in **Native Android** and building cross-platform apps with **Flutter**, **React Native** and **Ionic** 
 <br/> 
 
-𒆙 Experienced in building cross platform apps with React Native, Flutter, and Ionic Capacitor.
-<br/>  
+𒆙 Skilled in using design patterns like **MVI**, **MVVM**, and **BLoC** to create clean and efficient apps
+<br/> 
+
+</div>
+
+
 
  <!--  ▄︻̷̿┻̿═━一  ♞▀▄▀▄♝▀▄ 𒅒𒈔𒅒𒇫𒄆 🀢 🀣 🀦 🀤 🀥 𓅇
 🀥𐦐   𐦆  𐂂   𐦖  𐂃  𖤍 🜲  *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚𓅓ᯓ★ ᯓ★:
- 𒆙 🙤 ꘏ ꘏ ꘏ ꘏  𐂃  ꘏ 𖤍  ꘏ 𐂂  ꘏  ꘏ ꘏ ꘏ 🙦 𒆙  -->
-<br/>  
+ 𒆙 🙤 ꘏ ꘏ ꘏ ꘏  𐂃  ꘏ 𖤍  ꘏ 𐂂  ꘏  ꘏ ꘏ ꘏ 🙦 𒆙  
+ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏ ꘏-->
+
+
+<h3>  <img src="./assets/images/img_about.png"  height="50">⇙ A little more about me ⇙  </h3>
+
+
+<details>
+<summary> <strong> Quick Info </strong> </summary>
+
+<br>
+
+| [Name] <br> &nbsp; Shavinda Dissanayake &nbsp; | [Education] <br> &nbsp;&nbsp;  BSc in IT from SLIIT, Sri Lanka &nbsp;&nbsp; | [Current Role] <br> &nbsp; Senior Software Engineer &nbsp; |
+| :-: | :-: | :-: |
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NovaLogics&layout=compact&bg_color=0D1117&text_color=fff&hide_border=true&theme=github_dark)]()
+
+ </details>
+
+
+
+<details>
+<summary> <strong> Interests </strong> </summary>
+<br>
+
+🌾 <img  src="./assets/gifs/lion.gif" width="100">  🌾🌾🪨🌾
+
+|  Interests  |
+| - | 
+| 📜 **Commenting on Code Like a Poet** - *Because every line tells a story* |
+| 🐞 **Debugging Life Choices** - *Figuring out where it all went wrong* |
+| 🎨 **Code Commenting Art** - *Writing cryptic messages for future generations*  |
+| ☕ **Coffee Compiler** - *Running on Java (coffee) all day long* | 
+| 🏗️ **Over engineering Simple Problems for fun** - *Turning "Hello World" into a Microservice, <br>Because why not?* | 
+| 🏋️‍♀️ **Refactoring for Sport** - *Because it can always be cleaner* | 
+| 🏚️ **IDE Personalization** - *Making that workspace feel like home* | 
+
+</details>
+
+
+<details>
+<summary> <strong> Technical Skills </strong> </summary>
+<br>
+
+| **Technical Skills** |
+| --- |
+| **Languages & Technologies:** <br> Android (Java, Kotlin), Flutter (Dart), React Native (JS), C#, Swift, <br> Java SE, RxJava, AIDL, Dagger, OpenCV, BLE, OpenGL |
+| **Tools & Software:** <br> Android Studio, IntelliJ IDEA, VS Code, Visual Studio, Unity (2D),  Postman, Adobe CC |
+| **Databases:** <br> MySQL, MS-SQL, SQLite, Firebase, Room DB |
+| **Android Architecture Components:** <br> Lifecycle-aware components, Compose (UI Toolkit), ViewModel, LiveData, Navigation, Hilt &nbsp; <br> View Binding, Data Binding, Room DB, WorkManager, DataStore   |
+| **Design Patterns:** <br> MVI, MVVM, MVP, MVC, Facade, Observer, BLoC |
+| **Version Control:** <br> GitHub, GitLab |
+
+</details>
+
+ <br>
 
  <img align="center" height="24" src="https://img.shields.io/badge/PROFILE_VIEWS_➤-000000?style=for-the-badge&logo=github&logoColor=4EAA25"/><img align="center" height="24" src="https://profile-counter.glitch.me/{NovaLogics}/count.svg"/>
 
@@ -21,8 +87,8 @@
 
 <div align="center">
 
-[![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=NovaLogics&show_icons=true&line_height=27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaLogics&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&langs_count=10&count_private=true)]()
+[![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=NovaLogics&show_icons=true&line_height=28&show_icons=true&count_private=true&theme=react&hide_border=true&number_format=long&bg_color=0D1117)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaLogics&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&langs_count=10&count_private=true&hide=scss)]()
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dizzcode&show_icons=true&line_height=27&theme=dracula&hide_border=false)<br/> -->
 
 </div>

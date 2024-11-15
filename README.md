@@ -1,18 +1,17 @@
- <!-- [1] : Seaction Header : Main -->
-<div align="center">
-
-<h2>
-<strong> I go by Nova 𐂃༺ </strong><br> 
- 𒄆 <em> >/ Shavinda Dissanayake </em> 𒄆  
+<!-- [1] : Seaction Header : Main -->
+<h2 align="center">
+ <strong> I go by Nova 𐂃༺ </strong><br> 
+ 𒄆 <em> >/ Shavinda Dissanayake </em> 𒄆
 </h2>
 
+<div align="center">
  <h3>
  Mobile Engineer&nbsp; ║ &nbsp;UI␥UX Engineer
  </h3>
 
 <img
-    src="./assets/images/batman_logo_with_flame.png"  
-    height="90"
+src="./assets/images/batman_logo_with_flame.png"  
+height="90"
 />
 
 𒆙 **Senior Software Engineer** with **6+** years of experience in mobile app development
@@ -28,14 +27,12 @@
 ║│█║▌║▌║▌│█║▌║▌║▌│█║▌║▌║
 
 <img 
-    src="./assets/images/character_portrait_icon.png"  
-    height="50"
+src="./assets/images/character_portrait_icon.png"  
+height="50"
 />
 
 <details>
-<summary> 
-<strong> Insights & Interests </strong> 
-</summary>
+<summary> <strong> Insights & Interests </strong> </summary>
 
 <br>
 

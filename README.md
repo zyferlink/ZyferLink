@@ -6,7 +6,7 @@
 <div align="center">
 
  <h3 align="center">  Mobile Engineer&nbsp; ║ &nbsp;UI␥UX Engineer </h4>
-  <img src="./assets/images/batman_1.png"  height="90">
+  <img src="./assets/images/batman_logo_with_flame.png"  height="90">
 
 
 𒆙 **Senior Software Engineer** with **6+** years of experience in mobile app development
@@ -30,7 +30,7 @@
 
 ║│█║▌║▌║▌│█║▌║▌║▌│█║▌║▌║
 
-<img src="./assets/images/img_about.png"  height="50">
+<img src="./assets/images/character_portrait_icon.png"  height="50">
 
 <details>
 <summary> <strong> Insights & Interests </strong> </summary>

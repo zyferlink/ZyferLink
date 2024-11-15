@@ -11,7 +11,7 @@
 
 <img
 src="./assets/images/batman_logo_with_flame.png"  
-height="90"
+height="80"
 />
 
 𒆙 **Senior Software Engineer** with **6+** years of experience in mobile app development

@@ -9,10 +9,7 @@
  Mobile Engineer&nbsp; ║ &nbsp;UI␥UX Engineer
  </h3>
 
-<img
-src="./assets/images/batman_logo_with_flame.png"  
-height="80"
-/>
+<img src="./assets/images/batman_logo_with_flame.png" height="90"/>
 
 𒆙 **Senior Software Engineer** with **6+** years of experience in mobile app development
 <br/>
@@ -26,10 +23,7 @@ height="80"
 
 ║│█║▌║▌║▌│█║▌║▌║▌│█║▌║▌║
 
-<img 
-src="./assets/images/character_portrait_icon.png"  
-height="50"
-/>
+<img src="./assets/images/character_portrait_icon.png" height="44"/>
 
 <details>
 <summary> <strong> Insights & Interests </strong> </summary>

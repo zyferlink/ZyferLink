@@ -154,8 +154,8 @@ https://committers.top/sri_lanka.html
 
 <img src="./assets/demo/styles_app_women.gif"  width="140" height="320" />
 <img src="./assets/demo/styles_app_men.gif"  width="140" height="320" />
-<img src="./assets/demo/gif_hexa_1.gif"  width="160" height="360" />
-<img src="./assets/demo/gif_hexa_2.gif"  width="160" height="360" />
+<img src="./assets/demo/hexa_app_light.gif"  width="140" height="320" />
+<img src="./assets/demo/hexa_app_dark.gif"  width="140" height="320" />
 
 </div>
 

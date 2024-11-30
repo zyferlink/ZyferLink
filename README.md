@@ -147,7 +147,7 @@ https://committers.top/sri_lanka.html
 <img src="./assets/demo/lyxa/a1.gif"  width="146" height="260" alt="./assets/images/screen_home_2_dark.png"  />
 <br>
 
-<img src="./assets/demo/lyxa/r3.gif"  width="146" height="260" alt="./assets/images/screen_home_2_dark.png"  />
+<img src="./assets/demo/lyxa/r6.gif"  width="146" height="260" alt="./assets/images/screen_home_2_dark.png"  />
 <br>
 
 <img src="./assets/demo/lyxa/lyxa_2.gif"  width="140" height="320" alt="./assets/images/screen_home_2_dark.png"  />

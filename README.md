@@ -142,6 +142,15 @@ https://committers.top/sri_lanka.html
 
 \- ᴜɴᴅᴇʀᴡᴀʏ ᴘʀᴏᴊᴇᴄᴛꜱ -
 
+&ensp; ✦ [𝐋𝐘𝐗𝐀  𝑳𝒊𝒗𝒆](https://github.com/NovaLogics/lyxa-live-flutter-app) ✦ &ensp;
+
+<img src="./assets/demo/lyxa/lyxa_2.gif"  width="140" height="320" />
+<img src="./assets/demo/lyxa/lyxa_1.gif"  width="140" height="320" />
+<img src="./assets/demo/lyxa/lyxa_3.gif"  width="140" height="320" />
+
+<br>
+
+
 [𝐒𝐓𝐘𝐋𝐄𝐒 𝚋𝚢 𝙽𝚘𝚟𝚊](https://github.com/NovaLogics/styles-by-nova-android-app) &ensp; ✦ &ensp;
 [𝐇𝐄𝐗𝐀](https://github.com/NovaLogics/hexa-harry-potter-android-app)
 

@@ -144,7 +144,11 @@ https://committers.top/sri_lanka.html
 
 &ensp; ✦ [𝐋𝐘𝐗𝐀  𝑳𝒊𝒗𝒆](https://github.com/NovaLogics/lyxa-live-flutter-app) ✦ &ensp;
 
-<img src="./assets/demo/lyxa/a11.gif"  width="150" height="260" alt="./assets/images/screen_home_2_dark.png"  />
+<img src="./assets/demo/lyxa/a1.gif"  width="146" height="260" alt="./assets/images/screen_home_2_dark.png"  />
+<br>
+
+<img src="./assets/demo/lyxa/v1.gif"  width="146" height="260" alt="./assets/images/screen_home_2_dark.png"  />
+<br>
 
 <img src="./assets/demo/lyxa/lyxa_2.gif"  width="140" height="320" alt="./assets/images/screen_home_2_dark.png"  />
 <img src="./assets/demo/lyxa/lyxa_1.gif"  width="140" height="320" alt="./assets/images/screen_login_dark.png" />

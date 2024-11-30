@@ -149,6 +149,7 @@ https://committers.top/sri_lanka.html
 <img src="./assets/demo/lyxa/lyxa_3.gif"  width="140" height="320" alt="./assets/images/screen_home_1_dark.png"/>
 
 <br>
+<br>
 
 
 [𝐒𝐓𝐘𝐋𝐄𝐒 𝚋𝚢 𝙽𝚘𝚟𝚊](https://github.com/NovaLogics/styles-by-nova-android-app) &ensp; ✦ &ensp;

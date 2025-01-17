@@ -142,11 +142,13 @@ https://committers.top/sri_lanka.html
 
 \- ᴜɴᴅᴇʀᴡᴀʏ ᴘʀᴏᴊᴇᴄᴛꜱ -
 
-&ensp; ✦ [𝐋𝐘𝐗𝐀  𝑳𝒊𝒗𝒆](https://github.com/NovaLogics/lyxa-live-flutter-app) ✦ &ensp;
+[𝐋𝐘𝐗𝐀  𝑳𝒊𝒗𝒆](https://github.com/NovaLogics/lyxa-live-flutter-app) &ensp; ✦ &ensp;
+[𝐕𝐢𝐝𝐁𝐨𝐱](https://github.com/NovaLogics/vidbox-reactnative-expo-app)
 
-<img src="./assets/demo/lyxa/lyxa_2.gif"  width="146" height="260" alt="./assets/images/screen_home_2_dark.png"  />
-<img src="./assets/demo/lyxa/lyxa_1.gif"  width="146" height="260" alt="./assets/images/screen_home_2_dark.png"  />
-<img src="./assets/demo/lyxa/lyxa_3.gif"  width="146" height="260" alt="./assets/images/screen_home_2_dark.png"  />
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWR6Nmx2NTFncTc0a2hpYTF0ejBsdTIzZGRtYTc1YWVtdWN3Ymd4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cqsR17pkYzTdIWgkoO/giphy.gif"  width="146" height="260" alt="./assets/images/screen_home_2_dark.png"  />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZ3Mm5taXB5eXlwNmZwemo0cHh2ang3OXgxZGk4bjhyMDQ4b29oZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JOuxt2iF5VburHNlWH/giphy.gif"  width="146" height="260" alt="./assets/images/screen_home_2_dark.png"  />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRidDRvand4aDg0ZGI3bHU5OW45a3Jrcm4xN2h6NGR4anJxNWF3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R49QGAeUea5AQpTE4K/giphy.gif"  width="146" height="260" alt="./assets/images/screen_home_2_dark.png"  />
 
 <br>
 <br>
@@ -155,10 +157,10 @@ https://committers.top/sri_lanka.html
 [𝐒𝐓𝐘𝐋𝐄𝐒 𝚋𝚢 𝙽𝚘𝚟𝚊](https://github.com/NovaLogics/styles-by-nova-android-app) &ensp; ✦ &ensp;
 [𝐇𝐄𝐗𝐀](https://github.com/NovaLogics/hexa-harry-potter-android-app)
 
-<img src="./assets/demo/styles_app_women.gif"  width="140" height="320" />
-<img src="./assets/demo/styles_app_men.gif"  width="140" height="320" />
-<img src="./assets/demo/hexa_app_light.gif"  width="140" height="320" />
-<img src="./assets/demo/hexa_app_dark.gif"  width="140" height="320" />
+<img src="./assets/demo/styles_app_women.gif"  width="136" height="300" />
+<img src="./assets/demo/styles_app_men.gif"  width="136" height="300" />
+<img src="./assets/demo/hexa_app_light.gif"  width="136" height="300" />
+<img src="./assets/demo/hexa_app_dark.gif"  width="136" height="300" />
 
 </div>
 

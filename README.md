@@ -1,7 +1,7 @@
 <!-- [1] : Seaction Header : Main -->
 <h2 align="center">
- <strong> I go by Nova 𐂃༺ </strong><br> 
- 𒄆 <em> >/ Shavinda Dissanayake </em> 𒄆
+ <strong> I go by Zyfer 𐂃༺ </strong><br> 
+ 𒄆 <em> >/ Rajitha Dissanayake </em> 𒄆
 </h2>
 
 <div align="center">
@@ -59,7 +59,7 @@
 /><img 
     align="center" 
     height="24" 
-    src="https://profile-counter.glitch.me/{NovaLogics}/count.svg"
+    src="https://profile-counter.glitch.me/{ZyferLink}/count.svg"
 />
 
 </div>
@@ -68,8 +68,8 @@
 
 <div align="center">
 
-[![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=NovaLogics&show_icons=true&line_height=28&show_icons=true&count_private=true&theme=react&hide_border=true&number_format=long&bg_color=0D1117)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaLogics&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&langs_count=10&count_private=true&hide=scss)]()
+[![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=ZyferLink&show_icons=true&line_height=28&show_icons=true&count_private=true&theme=react&hide_border=true&number_format=long&bg_color=0D1117)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyferLink&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&langs_count=10&count_private=true&hide=scss)]()
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dizzcode&show_icons=true&line_height=27&theme=dracula&hide_border=false)<br/> -->
 
@@ -133,6 +133,8 @@ https://committers.top/sri_lanka.html
 </details>
 
 <img align="center" height="23" src="https://user-badge.committers.top/sri_lanka/NovaLogics.svg"/>
+<img align="center" height="23" src="https://user-badge.committers.top/sri_lanka/ZyferLink.svg"/>
+
 
 </div>
 
@@ -142,8 +144,8 @@ https://committers.top/sri_lanka.html
 
 \- ᴜɴᴅᴇʀᴡᴀʏ ᴘʀᴏᴊᴇᴄᴛꜱ -
 
-[𝐋𝐘𝐗𝐀  𝑳𝒊𝒗𝒆](https://github.com/NovaLogics/lyxa-live-flutter-app) &ensp; ✦ &ensp;
-[𝐕𝐢𝐝𝐁𝐨𝐱](https://github.com/NovaLogics/vidbox-reactnative-expo-app)
+[𝐋𝐘𝐗𝐀  𝑳𝒊𝒗𝒆](https://github.com/ZyferLink/lyxa-live-flutter-app) &ensp; ✦ &ensp;
+[𝐕𝐢𝐝𝐁𝐨𝐱](https://github.com/ZyferLink/vidbox-reactnative-expo-app)
 
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWR6Nmx2NTFncTc0a2hpYTF0ejBsdTIzZGRtYTc1YWVtdWN3Ymd4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cqsR17pkYzTdIWgkoO/giphy.gif"  width="146" height="260" alt="./assets/images/screen_home_2_dark.png"  />
@@ -154,8 +156,8 @@ https://committers.top/sri_lanka.html
 <br>
 
 
-[𝐒𝐓𝐘𝐋𝐄𝐒 𝚋𝚢 𝙽𝚘𝚟𝚊](https://github.com/NovaLogics/styles-by-nova-android-app) &ensp; ✦ &ensp;
-[𝐇𝐄𝐗𝐀](https://github.com/NovaLogics/hexa-harry-potter-android-app)
+[𝐒𝐓𝐘𝐋𝐄𝐒 𝚋𝚢 𝙽𝚘𝚟𝚊](https://github.com/ZyferLink/styles-by-nova-android-app) &ensp; ✦ &ensp;
+[𝐇𝐄𝐗𝐀](https://github.com/ZyferLink/hexa-harry-potter-android-app)
 
 <img src="./assets/demo/styles_app_women.gif"  width="136" height="300" />
 <img src="./assets/demo/styles_app_men.gif"  width="136" height="300" />

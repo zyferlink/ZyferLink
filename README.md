@@ -132,8 +132,7 @@ https://committers.top/sri_lanka.html
 
 </details>
 
-<img align="center" height="23" src="https://user-badge.committers.top/sri_lanka/NovaLogics.svg"/>
-<img align="center" height="23" src="https://user-badge.committers.top/sri_lanka/ZyferLink.svg"/>
+<img align="center" height="23" src="https://user-badge.committers.top/sri_lanka/zyferlink.svg"/>
 
 
 </div>

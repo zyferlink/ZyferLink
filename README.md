@@ -48,7 +48,7 @@ https://committers.top/sri_lanka.html
 <div align="center">
 
 [![Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=ZyferLink&show_icons=true&line_height=28&show_icons=true&count_private=true&theme=react&hide_border=true&number_format=long&bg_color=0D1117)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyferLink&layout=compact&hide_border=true&text_color=fff&theme=react&bg_color=0D1117&langs_count=10&count_private=true&hide=scss)]()
+[![Top Langs](https://github-readme-stats-me-amirroox.vercel.app/api/top-langs/?username=ZyferLink&exclude_repo=Bootstrap-Offline&hide=css,html&hide_border=true&layout=compact&show_icons=true&text_color=e0cece&icon_color=6aa6f8&bg_color=0D1117&langs_count=10)]()
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dizzcode&show_icons=true&line_height=27&theme=dracula&hide_border=false)<br/> -->
 
